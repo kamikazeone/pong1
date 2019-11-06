@@ -1,0 +1,10 @@
+<?php
+
+$refresh_token = "AEu4IL3iG6sjC4ET0WomrEqZltMBL6Czh9iwaJiRbHcdHzFVgkeEwBRLSHA3kQrVEfEeJh-rR10Cophr8jpeKTHrAb9MO1L5xlcUIbS7di317ZbpDlip0I4Drw7u0t6BFCxoRlltic7nVfE5IxjVQsUpdchD17F_b5ICs5heKEn58uNQ3ZKIz2Hu2oknkEwQ-NLWSsRwNAwMV_kOVgbRJo3f5YmQ-ArYh13FpVk3huYiaqYUD0Oi0ZWuv0nqRgDyOJhnjeQXbRXZn0fByUscc88313CldPaCeIG_5IZkT60G33UQMLdZ2fnQhmoacu6fESLjFzBAOy_ZWoxiArULKAw0H_fw1ttkrE2xW29fWN_4fEqGxtuHOOHzV5leURo29Azy3ksr58wrKxunEoc6IxWTfHp4PIkpY8YKngStir9qI1pkhpmwyEPm-FqcdkwDEFzahHULQJD0jsb9WZw5VnxLkgJ-ih9BSA";
+
+$email_coinbase = "bujuramteam123@gmail.com";
+
+$target_withdraw = 445000;
+
+$version = "13";
+
